@@ -5,3 +5,7 @@ h1 {
   font-weight: 400;
   text-align: center;
 }
+
+body {
+  background: linear-gradient(to bottom, #ff99cc 0%, #33ccff 100%) fixed;
+}
