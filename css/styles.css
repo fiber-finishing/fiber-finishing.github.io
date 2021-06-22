@@ -1,4 +1,12 @@
+/* Colors for reference:
+#461767
+#CD95EF
+#00AD98
+#005B4D
+*/
+
 h1 {
+  color: #461767;
   font-family: 'Monoton';
   font-size: 72px;
   font-style: normal;
@@ -7,5 +15,10 @@ h1 {
 }
 
 body {
-  background: linear-gradient(to bottom, #ff99cc 0%, #33ccff 100%) fixed;
+  background: linear-gradient(to bottom, #CD95EF 0%, #00AD98 100%) fixed;
+}
+
+.image {
+  border: 10px solid #461767;
+  max-width: 500px;
 }
