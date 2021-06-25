@@ -11,6 +11,8 @@ h1 {
   font-size: 72px;
   font-style: normal;
   font-weight: 400;
+  margin-bottom: .5em;
+  margin-top: .5em;
   text-align: center;
 }
 
@@ -18,7 +20,22 @@ body {
   background: linear-gradient(to bottom, #CD95EF 0%, #00AD98 100%) fixed;
 }
 
-.image {
-  border: 10px solid #461767;
-  max-width: 500px;
+.main {
+  font-size: 20px;
+  margin-bottom: 2em;
+}
+
+.block {
+  border: thick double #461767;
+  padding: 2em;
+}
+
+.works {
+  font-size: 1.5em;
+  margin-left: .5em;
+  margin-right: .5em;
+}
+
+.spamprotection {
+  display: none;
 }
